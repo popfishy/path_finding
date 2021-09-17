@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "A_Star.h"
 
-//两个数互换
+//迷宫中两个数据点互换
 void Swap(int idx1, int idx2)
 {
 	AStarNode *temp;
