@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1631875281 source:c:\users\13013\desktop\新建文件夹 (3)\迷宫1.0\a_star.c
+	<stdio.h>
+	<stdlib.h>
+	"A_Star.h"
+
+1631888213 c:\users\13013\desktop\新建文件夹 (3)\迷宫1.0\a_star.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+
+1631888240 source:c:\users\13013\desktop\新建文件夹 (3)\迷宫1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	"A_Star.h"
+
